@@ -8,4 +8,4 @@ I am using Visual Studio Code as a base software and I am learning from W3School
 
 I am also using Codeacademy which is a very good website for beginners!
 
-Ow
+Owo
