@@ -18,6 +18,7 @@ if choice == "Heads":
         print("You won!")
         
     else:
+        print("It was tails :(")
         print("You lost")
         
 else:
@@ -32,4 +33,5 @@ else:
         print("You won!")
         
     else:
+        print("It was heads :(")
         print("You lost")
