@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//BasicMovement must be the script name otherwise wont compile
 public class BasicMovement : MonoBehaviour 
 {
     // Start is called before the first frame update
