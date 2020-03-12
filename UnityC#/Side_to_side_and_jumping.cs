@@ -1,6 +1,6 @@
 using UnityEngine;
 using System.Collections;
-
+//Script must be called playerscript
 public class PlayerScript : MonoBehaviour {
     private Rigidbody2d mybody;
 
