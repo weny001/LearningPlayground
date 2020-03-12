@@ -1,7 +1,7 @@
 
 using UnityEngine;
 using System.Collections;
-
+//CompleteCameraController must be name of script
 public class CompleteCameraController : MonoBehaviour {
 
     public GameObject player;        //Public variable to store a reference to the player game object
